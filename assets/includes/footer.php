@@ -22,11 +22,11 @@
 
         <em>Sunday - Monday</em>
         Closed <br><br>
-
+        <?php include('StoreHours.class.php')?>
     </div>
 </div>
 
-<small>&copy; 2104 Brad Hussey</small>
+<small>&copy; <?php echo date('Y')?> <?php echo $companyName;?> Hussey</small>
 
 </div>
 

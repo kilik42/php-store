@@ -1,3 +1,7 @@
+<?php
+$companyName = "Franklin's Fine Dining";
+include ('arrays.php'); ?>
+
 <!doctype html>
 <html lang="en">
 <head>
