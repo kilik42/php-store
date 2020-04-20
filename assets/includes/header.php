@@ -26,7 +26,7 @@ include ('arrays.php'); ?>
             border: 1px solid #ccc;
         }
     </style>
-    <title>Document</title>
+    <title><?php echo TITLE;?></title>
 </head>
 <body  id="final-example">
 <div class="wrapper">
